@@ -9,7 +9,7 @@ const app = express();
 // ✅ Replace this with your frontend URL
 const allowedOrigins = [
   'http://localhost:3000',   // local React
-  'https://your-frontend-name.netlify.app' // live frontend
+  'https://mern-task-frontend-jccb.onrender.com' // live frontend
 ];
 
 // ✅ CORS setup
